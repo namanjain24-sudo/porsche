@@ -101,3 +101,33 @@ transform: scale(1.1);
 .btn-white1:hover {
     background-color: rgba(211, 211, 211, 0.577);
 }
+
+.white,.black{
+    border: none;
+    padding: 25px 40px;
+    border-radius: 8px;
+}
+.white{
+    background-color: white;
+    border: 2px solid black;
+}
+.black{
+    background-color: black;
+    color: white;
+}
+.first-white{
+    margin-left: 5px;
+    margin-right: 0px;
+}
+.first-black{
+    margin-left: 18px;
+    margin-right: 0px;
+}
+.second-white{
+    margin-left: 3px;
+    margin-right: 0px;
+}
+.second-black{
+    margin-left: 286px;
+    margin-right: 0px;
+}
